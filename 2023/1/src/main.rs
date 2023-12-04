@@ -11,7 +11,7 @@ fn main() {
         for s in word.chars() {
             if s.is_numeric() {
                  num_vec.push(s);
-             }
+            }
 
 
             match s {
